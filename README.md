@@ -2,7 +2,7 @@
 
 ## Learning MarkDown-Basis
  
-Learning MarkDown not only enriches ur life but also make u more happier.
+Learning MarkDown not only enriches ur life but also make u more happier. \
 Here's the resources we'll gonna use then.
 
 - [Google](www.google.com)
